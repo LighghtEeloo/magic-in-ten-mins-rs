@@ -2,7 +2,7 @@
 name = "magic-in-ten-mins-rs"
 version = "0.1.0"
 authors = ["PhotonQuantum <self@lightquantum.me>"]
-edition = "2018"
+edition = "2021"
 build = "build.rs"
 
 [dependencies]
